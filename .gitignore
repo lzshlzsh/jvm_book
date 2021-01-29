@@ -34,4 +34,4 @@ java_*.index
 java_*.hprof
 java_*.threads
 java_*.zip
-
+hs_err_pid*.log

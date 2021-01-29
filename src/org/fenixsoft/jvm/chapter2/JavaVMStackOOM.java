@@ -9,6 +9,11 @@ public class JavaVMStackOOM {
 
     private void dontStop() {
         while (true) {
+            try {
+                Thread.sleep(10000);
+            } catch (Exception e) {
+
+            }
         }
     }
 
