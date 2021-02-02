@@ -28,7 +28,7 @@
 
         <dependency>
             <groupId>cglib</groupId>
-            <artifactId>cglib</artifactId>
+            <artifactId>cglib-nodep</artifactId>
             <version>3.2.10</version>
         </dependency>
         <!-- Thanks for using https://jar-download.com -->
